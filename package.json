@@ -1,20 +1,20 @@
 {
-  "name": "@sidneys/platform-tools",
+  "name": "@bengennaria/platform-tools",
   "version": "1.150.0",
   "description": "Cross-platform utilities for Electron-based apps",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sidneys/platform-tools",
+  "homepage": "https://github.com/bengennaria/platform-tools",
   "author": {
-    "name": "sidneys",
-    "email": "sidneys.github.io@outlook.com",
-    "url": "https://bitbucket.org/sidneys"
+    "name": "bengennaria",
+    "email": "ben.gennaria@gmail.com",
+    "url": "https://github.com/bengennaria"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sidneys/platform-tools.git"
+    "url": "https://github.com/bengennaria/platform-tools.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/sidneys/platform-tools/issues"
+    "url": "https://github.com/bengennaria/platform-tools/issues"
   },
   "deprecated": false,
   "engines": {
