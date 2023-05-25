@@ -1,0 +1,40 @@
+{
+  "name": "@sidneys/platform-tools",
+  "version": "1.150.0",
+  "description": "Cross-platform utilities for Electron-based apps",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/sidneys/platform-tools",
+  "author": {
+    "name": "sidneys",
+    "email": "sidneys.github.io@outlook.com",
+    "url": "https://bitbucket.org/sidneys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/sidneys/platform-tools.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/sidneys/platform-tools/issues"
+  },
+  "deprecated": false,
+  "engines": {
+    "node": ">= 12.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "os": [
+    "darwin",
+    "win32",
+    "linux"
+  ],
+  "keywords": [
+    "development",
+    "tools"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  },
+  "main": "index.js"
+}
